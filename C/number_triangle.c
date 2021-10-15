@@ -5,7 +5,7 @@ int main(){
     int i,j,k,l,m,n;    
       
     system("cls");  
-    printf("enter the range : ");    
+    printf("enter the range :");    
     scanf("%d%d",&m,&n);    
     
     for(i=m;i<=n;i++)    
